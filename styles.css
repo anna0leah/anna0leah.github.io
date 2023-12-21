@@ -21,7 +21,6 @@ h2 {
 	display: flex;
 	flex-flow: column;
 	padding: 20px;
-	margin-right: 20px;
 	font-family: pt serif;
 }
 
@@ -48,6 +47,7 @@ body {
 .set-1 img {
 	width: 90%
 	height: auto;
+	align: center;
 }
 
 .set-2 {
@@ -63,6 +63,7 @@ body {
 .set-2 img {
 	width: 90%
 	height: auto;
+	align: center;
 }
 
 .set-3 {
