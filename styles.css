@@ -41,6 +41,7 @@ body {
 	height: auto;
 	padding: 10px;
 	font-size: 10px;
+	overflow: hidden;
 }
 
 .set-2 {
@@ -50,6 +51,8 @@ body {
 	height: auto;
 	padding: 10px;
 	font-size: 10px;
+	overflow: hidden;
+
 
 }
 
